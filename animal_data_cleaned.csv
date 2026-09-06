@@ -1,0 +1,845 @@
+Animal type,Country,Weight kg,Body Length cm,Gender,Animal code,Latitude,Longitude,Animal name,Observation date,Data compiled by,weight category
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.01.2024,James Johnson,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.02.2024,James Johnson,less than 1 kg
+european bison,Poland,930.0,335.0,male,Unknown,52.828845,23.820144,Szefu,01.03.2024,Anne Anthony,1 kg or more
+european bison,Poland,909.0,311.0,not determined,Unknown,52.830509,23.826849,Unknown,01.03.2024,Anne Anthony,1 kg or more
+european bison,Poland,581.0,277.0,female,Unknown,52.834109,23.807093,Unknown,01.03.2024,Anne Anthony,1 kg or more
+european bison,Poland,900.0,295.0,male,Unknown,52.834759,23.817201,Unknown,01.03.2024,Anne Anthony,1 kg or more
+european bison,Poland,620.0,250.0,female,Unknown,52.83496,23.82075,Unknown,01.03.2024,Anne Anthony,1 kg or more
+lynx,Hungary,24.0,76.0,male,Unknown,48.505494,20.551966,Unknown,01.03.2024,Anne Anthony,1 kg or more
+lynx,Hungary,23.0,82.0,female,Unknown,48.506529,20.554548,Unknown,01.03.2024,Anne Anthony,1 kg or more
+red squirel,Poland,0.308,22.0,female,Unknown,52.241273,21.055745,Basia,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.348,20.0,female,Unknown,52.24206,21.057802,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.316,20.0,male,Unknown,52.240035,21.056188,Lolek,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.34,21.0,Unknown,Unknown,52.240284,21.051948,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.333,21.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.265,19.0,female,Unknown,52.24056,21.055899,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.3315,21.0,male,Unknown,52.241177,21.052873,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.261,22.0,female,Unknown,52.240833,21.052093,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.317,23.0,male,Unknown,52.241358,21.056352,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.328,21.0,male,Unknown,52.241905,21.050727,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.305,21.0,male,Unknown,47.511401,18.949119,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.328,23.0,male,Unknown,52.24192,21.056347,Unknown,01.03.2024,Anne Anthony,less than 1 kg
+squirrel,Germany,0.294,19.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.25,19.0,female,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.262,21.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.267,21.0,female,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.269,22.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.308,22.0,female,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.308,19.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.27,20.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.32,20.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.262,20.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.256,21.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.245,22.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.292,19.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.289,19.0,female,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.308,22.0,male,Unknown,0.0,0.0,Unknown,01.03.2024,Bob Bobson,less than 1 kg
+european bison,Slovakia,420.0,182.0,male,Unknown,49.054684,22.417189,Unknown,01.03.2024,John Johnson,1 kg or more
+european bison,Slovakia,511.0,266.0,female,Unknown,49.053629,22.421831,Unknown,01.03.2024,John Johnson,1 kg or more
+european bison,Slovakia,814.0,288.0,male,Unknown,49.053489,22.415229,Unknown,01.03.2024,John Johnson,1 kg or more
+european bison,Slovakia,130.0,141.0,female,Unknown,49.054166,22.422852,Unknown,01.03.2024,John Johnson,1 kg or more
+european bison,Slovakia,390.0,180.0,female,Unknown,49.052731,22.422675,Unknown,01.03.2024,John Johnson,1 kg or more
+european bison,Slovakia,355.0,179.0,male,Unknown,49.055974,22.415985,Unknown,01.03.2024,John Johnson,1 kg or more
+european bison,Slovakia,566.0,272.0,female,Unknown,49.053342,22.423867,Unknown,01.03.2024,John Johnson,1 kg or more
+european bison,Slovakia,393.0,152.0,not determined,Unknown,49.056471,22.422475,Unknown,01.03.2024,John Johnson,1 kg or more
+european bison,Czech Republic,823.0,286.0,male,Unknown,50.636564,14.834553,Unknown,01.03.2024,John Johnson,1 kg or more
+european bison,Slovakia,695.0,316.0,male,Unknown,49.055537,22.419428,Unknown,01.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.6,20.0,female,Unknown,50.636869,14.844555,Unknown,01.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.6,21.0,male,Unknown,50.644733,14.835753,Unknown,01.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.2,31.0,male,Unknown,50.635766,14.844247,Unknown,01.03.2024,John Johnson,1 kg or more
+squirrel,Slovakia,0.275,23.0,male,Unknown,48.185353,17.08322,Unknown,01.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.9,22.0,male,Unknown,50.642843,14.84124,Unknown,01.03.2024,John Johnson,less than 1 kg
+lynx,Hungary,23.0,78.0,female,Unknown,48.504128,20.568479,Unknown,02.03.2024,Anne Anthony,1 kg or more
+lynx,Poland,29.0,94.0,male,Unknown,52.809851,23.858071,Unknown,02.03.2024,Anne Anthony,1 kg or more
+squirrel,Germany,0.244,22.0,female,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.299,21.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.284,20.0,female,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.289,20.0,female,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.284,21.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.314,22.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.262,19.0,female,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.258,20.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.297,21.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.255,22.0,female,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.28,22.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.293,22.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.295,20.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.28,20.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.281,20.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.245,21.0,female,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.283,21.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.27,19.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.315,22.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.254,17.0,female,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.249,19.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.298,21.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.314,19.0,female,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.251,19.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.293,20.0,female,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.301,20.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.271,17.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.275,20.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.304,21.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.308,20.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.24,21.0,male,Unknown,0.0,0.0,Unknown,02.03.2024,Bob Bobson,less than 1 kg
+european bison,Czech Republic,402.0,162.0,female,Unknown,50.641008,14.836529,Unknown,02.03.2024,John Johnson,1 kg or more
+european bison,Czech Republic,535.0,295.0,male,Unknown,50.643406,14.836495,Unknown,02.03.2024,John Johnson,1 kg or more
+european bison,Czech Republic,572.0,251.0,female,Unknown,50.638945,14.845452,Unknown,02.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.9,20.0,female,Unknown,50.639869,14.849702,Unknown,02.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.7,16.0,female,Unknown,50.643039,14.840662,Unknown,02.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.7,14.0,female,Unknown,50.637879,14.838429,Unknown,02.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.1,32.0,male,Unknown,50.643254,14.84373,Unknown,02.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.5,20.0,male,Unknown,50.643854,14.837155,Unknown,02.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.1,22.0,female,Unknown,50.635584,14.837072,Unknown,02.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,1.0,20.0,female,Unknown,50.642723,14.837229,Unknown,02.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.7,13.0,female,Unknown,50.639389,14.8444,Unknown,02.03.2024,John Johnson,less than 1 kg
+lynx,Slovakia,30.0,120.0,male,Unknown,48.409308,18.832606,Unknown,02.03.2024,John Johnson,1 kg or more
+squirrel,Hungary,0.262,20.0,female,Unknown,47.510799,18.945583,Unknown,03.03.2024,Anne Anthony,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.03.2024,James Johnson,less than 1 kg
+hedgehog,Czech Republic,0.6,20.0,male,Unknown,50.637375,14.839785,Unknown,03.03.2024,John Johnson,less than 1 kg
+lynx,Slovakia,28.0,131.0,male,Unknown,48.406304,18.842851,Unknown,03.03.2024,John Johnson,1 kg or more
+red squirel,Slovakia,0.281,18.0,male,Unknown,48.18769,17.086471,Unknown,03.03.2024,John Johnson,less than 1 kg
+european bison,Poland,650.0,285.0,female,Unknown,52.834741,23.826716,Unknown,04.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,1.1,24.0,male,Unknown,48.503795,20.555932,Unknown,04.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,1.1,26.0,not determined,Unknown,48.503062,20.551698,Unknown,04.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.8,18.0,female,Unknown,48.503498,20.539662,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,1.2,26.0,male,Unknown,48.509298,20.551977,Unknown,04.03.2024,Anne Anthony,1 kg or more
+hedgehog,Poland,0.9,22.0,male,Unknown,52.214679,21.033021,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+lynx,Hungary,25.0,89.0,male,Unknown,48.504169,20.559452,Unknown,04.03.2024,Anne Anthony,1 kg or more
+red squirel,Hungary,0.283,18.0,female,Unknown,48.505251,20.551473,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.307,21.0,male,Unknown,0.0,0.0,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.296,22.0,male,Unknown,48.502584,20.532518,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.301,18.0,female,Unknown,48.505512,20.538038,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.295,17.0,male,Unknown,48.50578,20.546466,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.32,18.0,male,Unknown,48.502091,20.547521,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.28,19.0,female,Unknown,48.505494,20.536362,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.33,24.0,male,Unknown,52.241203,21.050999,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.3,22.0,female,Unknown,52.240018,21.05239,Lola,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.283,17.0,female,Unknown,52.239931,21.056703,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.341,21.0,male,Unknown,52.241856,21.053078,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.35,24.0,male,Unknown,52.240453,21.055847,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.291,21.0,Unknown,Unknown,52.241662,21.05643,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.329,22.0,female,Unknown,52.241638,21.055998,Lola,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.327,18.0,female,Unknown,48.502803,20.548668,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.35,24.0,male,Unknown,52.240497,21.055991,Unknown,04.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,0.6,17.0,male,Unknown,50.635501,14.838158,Unknown,04.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.9,22.0,female,Unknown,50.638142,14.849689,Unknown,04.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.289,21.0,female,Unknown,49.937872,14.179825,Unknown,04.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.297,20.0,female,Unknown,48.185194,17.083142,Unknown,04.03.2024,John Johnson,less than 1 kg
+lynx,Hungary,24.0,79.0,male,Unknown,48.503043,20.561567,Unknown,05.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.301,23.0,female,Unknown,52.240867,21.054339,Unknown,05.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.344,20.0,male,Unknown,52.240522,21.057552,Unknown,05.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.253,21.0,male,Unknown,47.507002,18.950091,Unknown,05.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.293,18.0,female,Unknown,47.507557,18.942066,Unknown,05.03.2024,Anne Anthony,less than 1 kg
+Unknown,Austria,0.263,22.0,male,Unknown,0.0,0.0,Unknown,05.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Czech Republic,0.9,19.0,female,Unknown,50.107284,14.346127,Unknown,05.03.2024,John Johnson,less than 1 kg
+lynx,Slovakia,23.0,97.0,female,Unknown,48.413226,18.848128,Unknown,05.03.2024,John Johnson,1 kg or more
+red squirel,Slovakia,0.333,23.0,male,Unknown,48.409023,18.84399,Unknown,05.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.32,17.0,male,Unknown,48.406733,18.838754,Unknown,05.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.266,18.0,female,Unknown,48.40459,18.846849,Unknown,05.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.306,22.0,male,Unknown,48.408318,18.844383,Unknown,05.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.311,22.0,male,Unknown,48.412458,18.832425,Unknown,05.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.291,22.0,female,Unknown,48.406551,18.837137,Unknown,05.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.259,19.0,male,Unknown,48.405516,18.850994,Unknown,05.03.2024,John Johnson,less than 1 kg
+european bison,Poland,454.0,225.0,female,Unknown,52.834423,23.827103,Unknown,06.03.2024,Anne Anthony,1 kg or more
+hedgehog,Poland,1.1,22.0,female,Unknown,52.214521,21.031889,Unknown,06.03.2024,Anne Anthony,1 kg or more
+hedgehog,Poland,0.9,21.0,male,Unknown,52.214934,21.032106,Unknown,06.03.2024,Anne Anthony,less than 1 kg
+lynx,Hungary,18.0,81.0,female,Unknown,48.511532,20.539112,Unknown,06.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.343,23.0,male,Unknown,52.241638,21.057329,Unknown,06.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.274,22.0,female,Unknown,52.241235,21.057356,Unknown,06.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,0.6,17.0,female,Unknown,50.106942,14.348502,Unknown,06.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.4,12.0,female,Unknown,50.107223,14.34732,Unknown,06.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.1,26.0,male,Unknown,50.106379,14.347645,Unknown,06.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.8,22.0,male,Unknown,50.106579,14.346283,Unknown,06.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.334,21.0,male,Unknown,48.188008,17.085312,Unknown,06.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.307,23.0,female,Unknown,48.185298,17.084072,Unknown,06.03.2024,John Johnson,less than 1 kg
+european bison,Poland,862.0,312.0,male,Unknown,52.831879,23.826297,Unknown,07.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.3315,21.0,female,Unknown,48.506206,20.565308,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.5,16.0,male,Unknown,48.50509,20.539448,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.8,23.0,female,Unknown,48.504425,20.548744,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.7,18.0,female,Unknown,48.505617,20.541054,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,1.2,23.0,male,Unknown,48.503254,20.555951,Unknown,07.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.5,15.0,male,Unknown,48.502359,20.563385,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.6,18.0,female,Unknown,48.511048,20.567209,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+lynx,Hungary,29.0,109.0,male,Unknown,48.501574,20.532455,Unknown,07.03.2024,Anne Anthony,1 kg or more
+lynx,Poland,26.0,85.0,female,Unknown,52.808579,23.843768,Unknown,07.03.2024,Anne Anthony,1 kg or more
+squirrel,Hungary,0.296,19.0,male,Unknown,-2.023546,34.896734,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.3,23.0,male,Unknown,48.505406,20.535848,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.286,18.0,female,Unknown,48.503917,20.536503,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.318,21.0,male,Unknown,52.240616,21.054902,Unknown,07.03.2024,Anne Anthony,less than 1 kg
+european bison,Czech Republic,716.0,303.0,male,Unknown,50.636161,14.846951,Unknown,07.03.2024,John Johnson,1 kg or more
+european bison,Czech Republic,541.0,212.0,female,Unknown,50.642592,14.85014,Unknown,07.03.2024,John Johnson,1 kg or more
+european bison,Czech Republic,30.0,100.0,female,Unknown,50.636423,14.847287,Unknown,07.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.7,20.0,female,Unknown,50.106607,14.347909,Unknown,07.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.7,20.0,female,Unknown,50.106925,14.346629,Unknown,07.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.2,26.0,male,Unknown,50.107284,14.347676,Unknown,07.03.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.273,17.0,female,Unknown,49.938634,14.181813,Unknown,07.03.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,1.0,24.0,female,Unknown,48.506913,20.540427,Unknown,08.03.2024,Anne Anthony,1 kg or more
+hedgehog,Poland,0.8,19.0,female,Unknown,52.214365,21.031462,Unknown,08.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.261,19.0,female,Unknown,47.507023,18.940532,Unknown,08.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,0.8,22.0,male,Unknown,50.106811,14.348513,Unknown,08.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.1,23.0,male,Unknown,50.107278,14.348461,Unknown,08.03.2024,John Johnson,1 kg or more
+european bison,Poland,621.0,277.0,female,Unknown,52.828561,23.816861,Unknown,09.03.2024,Anne Anthony,1 kg or more
+european bison,Poland,385.0,168.0,female,Unknown,52.833261,23.815203,Unknown,09.03.2024,Anne Anthony,1 kg or more
+hedgehog,Poland,0.6,21.0,male,Unknown,52.21441,21.032484,Unknown,09.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Poland,0.8,22.0,female,Unknown,52.214452,21.034505,Unknown,09.03.2024,Anne Anthony,less than 1 kg
+lynx,Hungary,12.0,61.0,female,Unknown,48.508239,20.567914,Unknown,09.03.2024,Anne Anthony,1 kg or more
+lynx,Hungary,23.0,73.0,female,Unknown,48.507503,20.551726,Unknown,09.03.2024,Anne Anthony,1 kg or more
+lynx,Poland,20.0,95.0,female,Unknown,52.814984,23.840681,Unknown,09.03.2024,Anne Anthony,1 kg or more
+lynx,Poland,18.0,63.0,male,Unknown,52.812647,23.863299,Unknown,09.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.302,22.0,male,Unknown,52.241375,21.050845,Unknown,09.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.284,20.0,female,Unknown,47.50938,18.949607,Unknown,09.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,0.9,22.0,female,Unknown,50.106583,14.346471,Unknown,09.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.1,23.0,male,Unknown,50.10696,14.346126,Unknown,09.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.6,19.0,male,Unknown,50.106311,14.346906,Unknown,09.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.293,19.0,male,Unknown,49.937416,14.181449,Unknown,09.03.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,0.9,20.0,female,Unknown,48.51108,20.567192,Unknown,10.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.9,21.0,male,Unknown,48.50529,20.566169,Unknown,10.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,1.1,26.0,male,Unknown,48.502486,20.562565,Unknown,10.03.2024,Anne Anthony,1 kg or more
+lynx,Hungary,23.0,77.0,female,Unknown,48.509272,20.551952,Unknown,10.03.2024,Anne Anthony,1 kg or more
+lynx,Hungary,15.0,71.0,male,Unknown,48.50118,20.557432,Unknown,10.03.2024,Anne Anthony,1 kg or more
+hedgehog,Czech Republic,0.8,17.0,male,Unknown,49.938707,14.182507,Unknown,10.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.5,18.0,female,Unknown,49.937531,14.180359,Unknown,10.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.7,17.0,female,Unknown,49.93789,14.180882,Unknown,10.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.5,15.0,female,Unknown,49.93734,14.18071,Unknown,10.03.2024,John Johnson,less than 1 kg
+european bison,Poland,24.0,100.0,female,Unknown,52.834112,23.825722,Unknown,11.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.9,19.0,female,Unknown,48.505634,20.543417,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Poland,0.8,16.0,female,Unknown,52.214968,21.030987,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+lynx,Hungary,20.0,90.0,female,Unknown,48.501938,20.567814,Unknown,11.03.2024,Anne Anthony,1 kg or more
+red squirel,Hungary,0.322,21.0,male,Unknown,48.506217,20.545055,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.282,21.0,male,Unknown,-2.023546,34.896734,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.311,22.0,female,Unknown,48.505737,20.546731,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.336,22.0,female,Unknown,48.506095,20.543032,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.29,21.0,male,Unknown,48.506429,20.543875,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.293,20.0,male,Unknown,48.50586,20.547649,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.335,19.0,female,Unknown,48.502521,20.558578,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.339,19.0,female,Unknown,48.503752,20.558664,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.304,22.0,Unknown,Unknown,52.241093,21.055413,Unknown,11.03.2024,Anne Anthony,less than 1 kg
+red squirel,Czech Republic,0.271,18.0,male,Unknown,49.937391,14.179566,Unknown,11.03.2024,John Johnson,less than 1 kg
+european bison,Poland,315.0,175.0,male,Unknown,52.829512,23.811681,Unknown,12.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.316,24.0,male,Unknown,52.240707,21.057051,Unknown,12.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.3315,21.0,female,Unknown,47.508454,18.949343,Unknown,12.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,0.6,20.0,male,Unknown,49.938169,14.178703,Unknown,12.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.4,17.0,male,Unknown,49.938527,14.179315,Unknown,12.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.324,23.0,female,Unknown,49.937724,14.182072,Unknown,12.03.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,0.6,14.0,female,Unknown,48.506262,20.547343,Unknown,13.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Poland,0.8,24.0,male,Unknown,52.214734,21.031915,Unknown,13.03.2024,Anne Anthony,less than 1 kg
+lynx,Hungary,20.0,86.0,male,Unknown,48.504717,20.558726,Unknown,13.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.36,23.0,female,Unknown,52.24151,21.052575,Basia,13.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.26,18.0,male,Unknown,47.505768,18.943674,Unknown,13.03.2024,Anne Anthony,less than 1 kg
+squirrel,Germany,0.335,18.0,male,Unknown,48.161549,11.493041,Bob Bobson,13.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Czech Republic,0.6,15.0,female,Unknown,49.939297,14.181453,Unknown,13.03.2024,John Johnson,less than 1 kg
+red squirel,Slovakia,0.288,18.0,female,Unknown,48.185953,17.08393,Unknown,13.03.2024,John Johnson,less than 1 kg
+european bison,Poland,610.0,258.0,female,Unknown,52.821135,23.809947,Unknown,14.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.7,21.0,female,Unknown,48.509199,20.552447,Unknown,14.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Poland,1.0,21.0,female,Unknown,52.213985,21.030841,Unknown,14.03.2024,Anne Anthony,1 kg or more
+hedgehog,Poland,0.8,15.0,female,Unknown,52.213877,21.030861,Unknown,14.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.32,21.0,female,Unknown,52.241309,21.057247,Unknown,14.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.287,23.0,female,Unknown,47.508679,18.946127,Unknown,14.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Australia,0.8,24.0,not determined,Unknown,47.781689,14.386777,Unknown,14.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.7,19.0,female,Unknown,47.781139,14.382004,Unknown,14.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.8,20.0,male,Unknown,47.781828,14.385001,Unknown,14.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.6,14.0,female,Unknown,47.78106,14.386807,Unknown,14.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.7,24.0,male,Unknown,47.780872,14.38446,Unknown,14.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.8,21.0,female,Unknown,47.781117,14.38608,Unknown,14.03.2024,Bob Bobson,less than 1 kg
+lynx,Austria,22.0,80.0,female,Unknown,47.780779,14.384918,Unknown,14.03.2024,Bob Bobson,1 kg or more
+lynx,Austria,23.0,86.0,male,Unknown,47.781257,14.383099,Unknown,14.03.2024,Bob Bobson,1 kg or more
+hedgehog,Czech Republic,0.9,16.0,female,Unknown,49.93849,14.1802,Unknown,14.03.2024,John Johnson,less than 1 kg
+hedgehog,Poland,0.9,22.0,male,Unknown,52.214498,21.034201,Unknown,15.03.2024,Anne Anthony,less than 1 kg
+lynx,Poland,16.0,70.0,male,Unknown,52.803129,23.844358,Unknown,15.03.2024,Anne Anthony,1 kg or more
+hedgehog,Czech Republic,0.7,21.0,female,Unknown,49.938132,14.181225,Unknown,15.03.2024,John Johnson,less than 1 kg
+red squirel,Slovakia,0.294,23.0,male,Unknown,48.184374,17.086,Unknown,15.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.267,18.0,female,Unknown,49.93886,14.182738,Unknown,15.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.328,19.0,male,Unknown,49.938357,14.177929,Unknown,15.03.2024,John Johnson,less than 1 kg
+european bison,Poland,35.0,125.0,female,Unknown,52.820739,23.815145,Unknown,16.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.6,23.0,male,Unknown,48.501763,20.547976,Unknown,16.03.2024,Anne Anthony,less than 1 kg
+lynx,Poland,16.0,72.0,male,Unknown,52.814211,23.834358,Unknown,16.03.2024,Anne Anthony,1 kg or more
+lynx,Poland,18.0,81.0,female,Unknown,52.802757,23.835199,Unknown,16.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.346,19.0,male,Unknown,52.240529,21.053603,Unknown,16.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.27,22.0,female,Unknown,47.509866,18.942538,Unknown,16.03.2024,Anne Anthony,less than 1 kg
+squirrel,Slovakia,0.326,19.0,female,Unknown,48.185585,17.091365,Unknown,16.03.2024,John Johnson,less than 1 kg
+european bison,Poland,915.0,304.0,male,Unknown,52.82288,23.810852,Unknown,17.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.7,15.0,female,Unknown,48.504773,20.536543,Unknown,17.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Poland,0.6,15.0,female,Unknown,52.214745,21.033701,Unknown,17.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.278,21.0,female,Unknown,47.510304,18.942925,Unknown,17.03.2024,Anne Anthony,less than 1 kg
+squirrel,Slovakia,0.322,23.0,female,Unknown,49.056857,22.416369,Unknown,17.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.302,23.0,male,Unknown,48.41237,18.875325,Unknown,17.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.334,20.0,female,Unknown,48.406983,18.863197,Unknown,17.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.28,19.0,male,Unknown,48.411486,18.86773,Unknown,17.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.289,18.0,male,Unknown,48.410536,18.870325,Unknown,17.03.2024,John Johnson,less than 1 kg
+european bison,Poland,537.0,287.0,female,Unknown,52.8255,23.808386,Unknown,18.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.346,23.0,male,Unknown,52.240737,21.053063,Unknown,18.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,1.2,26.0,male,Unknown,49.938547,14.180402,Unknown,18.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.9,17.0,male,Unknown,49.937429,14.18264,Unknown,18.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.32,18.0,female,Unknown,49.938634,14.179739,Unknown,18.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.266,17.0,male,Unknown,49.939062,14.177939,Unknown,18.03.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,1.1,19.0,female,Unknown,48.502512,20.563331,Unknown,19.03.2024,Anne Anthony,1 kg or more
+hedgehog,Poland,0.4,16.0,male,Unknown,52.214758,21.030697,Unknown,19.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Austria,1.1,21.0,female,Unknown,47.781212,14.384017,Unknown,19.03.2024,Bob Bobson,1 kg or more
+hedgehog,Austria,0.7,25.0,male,Unknown,47.781764,14.38328,Unknown,19.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,1.1,24.0,male,Unknown,47.781883,14.382628,Unknown,19.03.2024,Bob Bobson,1 kg or more
+hedgehog,Austria,0.4,21.0,female,Unknown,47.781093,14.38209,Unknown,19.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.8,16.0,male,Unknown,52.585958,13.147098,Bob Bobson,19.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.5,18.0,female,Unknown,52.586199,13.152793,Bob Bobson,19.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.5,18.0,male,Unknown,52.586589,13.146651,Bob Bobson,19.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.4,13.0,female,Unknown,52.587327,13.149206,Bob Bobson,19.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.0,21.0,male,Unknown,52.585937,13.146151,Bob Bobson,19.03.2024,Bob Bobson,1 kg or more
+hedgehog,Czech Republic,1.0,17.0,female,Unknown,49.937696,14.182707,Unknown,19.03.2024,John Johnson,1 kg or more
+lynx,Slovakia,16.0,65.0,male,Unknown,48.405926,18.839219,Unknown,19.03.2024,John Johnson,1 kg or more
+squirrel,Slovakia,0.33,18.0,Unknown,Unknown,48.184757,17.082936,Unknown,19.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.323,23.0,female,Unknown,48.186767,17.089935,Unknown,19.03.2024,John Johnson,less than 1 kg
+hedgehog,Poland,0.4,16.0,female,Unknown,52.214754,21.034364,Unknown,20.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Poland,0.7,26.0,male,Unknown,52.215034,21.03303,Unknown,20.03.2024,Anne Anthony,less than 1 kg
+red squirel,Poland,0.35,19.0,female,Unknown,52.241637,21.05154,Unknown,20.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.284,18.0,female,Unknown,47.505786,18.943124,Unknown,20.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,0.5,13.0,male,Unknown,49.937455,14.180775,Unknown,20.03.2024,John Johnson,less than 1 kg
+lynx,Slovakia,17.0,80.0,female,Unknown,48.407449,18.850762,Unknown,20.03.2024,John Johnson,1 kg or more
+european bison,Poland,302.0,150.0,female,Unknown,52.820447,23.813259,Unknown,21.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,1.2,29.0,male,Unknown,48.503795,20.555932,Unknown,21.03.2024,Anne Anthony,1 kg or more
+hedgehog,Poland,1.2,25.0,male,Unknown,52.214156,21.0325,Unknown,21.03.2024,Anne Anthony,1 kg or more
+lynx,Poland,171.0,75.0,male,Unknown,52.831229,23.814123,Unknown,21.03.2024,Anne Anthony,1 kg or more
+lynx,Poland,18.0,73.0,female,Unknown,52.832726,23.825032,Unknown,21.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.33,23.0,male,Unknown,50.041479,19.951211,Unknown,21.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.3315,21.0,male,Unknown,50.041154,19.949919,Unknown,21.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.315,19.0,male,Unknown,47.506414,18.941655,Unknown,21.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Austria,0.8,24.0,male,Unknown,47.781236,14.382219,Unknown,21.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Australia,0.6,14.0,female,Unknown,47.781248,14.382649,Unknown,21.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.1,21.0,male,Unknown,52.585628,13.149093,Bob Bobson,21.03.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,1.1,22.0,female,Unknown,52.58329,13.149155,Bob Bobson,21.03.2024,Bob Bobson,1 kg or more
+lynx,Austria,20.0,74.0,female,Unknown,47.781106,14.382184,Unknown,21.03.2024,Bob Bobson,1 kg or more
+squirrel,Germany,0.323,20.0,male,Unknown,52.581896,13.151801,Bob Bobson,21.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.276,21.0,female,Unknown,52.581885,13.152811,Bob Bobson,21.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.339,21.0,male,Unknown,52.587248,13.151499,Bob Bobson,21.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.34,19.0,female,Unknown,52.58237,13.146855,Bob Bobson,21.03.2024,Bob Bobson,less than 1 kg
+european bison,Czech Republic,750.0,242.0,male,Unknown,50.638137,14.838129,Unknown,21.03.2024,John Johnson,1 kg or more
+european bison,Czech Republic,35.0,110.0,male,Unknown,50.640733,14.84516,Unknown,21.03.2024,John Johnson,1 kg or more
+european bison,Czech Republic,360.0,175.0,female,Unknown,50.636642,14.847946,Unknown,21.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,1.1,18.0,female,Unknown,49.939474,14.180897,Unknown,21.03.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.335,20.0,male,Unknown,49.938958,14.181258,Unknown,21.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.273,23.0,male,Unknown,48.185898,17.090683,Unknown,21.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.33,19.0,male,Unknown,48.186672,17.091508,Unknown,21.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.329,19.0,female,Unknown,48.18685,17.091228,Unknown,21.03.2024,John Johnson,less than 1 kg
+european bison,Poland,1000.0,320.0,male,Unknown,52.82547,23.81307,Klucha,22.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,1.1,18.0,male,Unknown,48.503062,20.551698,Unknown,22.03.2024,Anne Anthony,1 kg or more
+squirrel,Germany,0.306,23.0,male,Unknown,52.584352,13.148089,Bob Bobson,22.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.334,19.0,male,Unknown,52.587863,13.147785,Bob Bobson,22.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.334,21.0,male,Unknown,52.587734,13.151378,Bob Bobson,22.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.329,19.0,female,Unknown,52.582754,13.145364,Bob Bobson,22.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.317,22.0,male,Unknown,52.585517,13.150878,Bob Bobson,22.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.267,21.0,female,Unknown,52.588834,13.15192,Bob Bobson,22.03.2024,Bob Bobson,less than 1 kg
+european bison,Czech Republic,603.0,291.0,male,Unknown,50.644813,14.839817,Unknown,22.03.2024,John Johnson,1 kg or more
+european bison,Czech Republic,717.0,305.0,male,Unknown,50.635565,14.83932,Unknown,22.03.2024,John Johnson,1 kg or more
+european bison,Czech Republic,390.0,145.0,female,Unknown,50.639856,14.847626,Unknown,22.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.6,21.0,female,Unknown,49.939062,14.17875,Unknown,22.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.1,21.0,male,Unknown,49.939165,14.182528,Unknown,22.03.2024,John Johnson,1 kg or more
+hedgehog,Czech Republic,0.7,18.0,female,Unknown,49.937562,14.181101,Unknown,22.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.2,23.0,male,Unknown,49.939201,14.178923,Unknown,22.03.2024,John Johnson,1 kg or more
+lynx,Slovakia,25.0,96.0,female,Unknown,48.410693,18.832845,Unknown,22.03.2024,John Johnson,1 kg or more
+european bison,Poland,660.0,246.0,female,Unknown,52.824079,23.81279,Unknown,23.03.2024,Anne Anthony,1 kg or more
+european bison,Poland,619.0,248.0,female,Unknown,52.826081,23.815823,Unknown,23.03.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.6,19.0,female,Unknown,48.503498,20.539662,Unknown,23.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.8,25.0,male,Unknown,48.509298,20.551977,Unknown,23.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.4,15.0,female,Unknown,48.506206,20.565308,Unknown,23.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,1.1,22.0,male,Unknown,48.50509,20.539448,Unknown,23.03.2024,Anne Anthony,1 kg or more
+hedgehog,Poland,0.8,20.0,female,Unknown,52.215039,21.032591,Unknown,23.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Poland,0.5,19.0,female,Unknown,52.215085,21.034198,Unknown,23.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.348,20.0,female,Unknown,50.04186,19.950192,Unknown,23.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.301,18.0,male,Unknown,47.51026,18.947838,Unknown,23.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,0.7,20.0,female,Unknown,49.937454,14.182121,Unknown,23.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,1.0,21.0,female,Unknown,49.937788,14.180368,Unknown,23.03.2024,John Johnson,1 kg or more
+squirrel,Poland,0.286,20.0,female,Unknown,50.04113,19.949698,Unknown,24.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.282,21.0,female,Unknown,50.041522,19.950563,Zuzia,24.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Austria,0.8,18.0,male,Unknown,47.781882,14.384802,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.6,19.0,male,Unknown,47.781019,14.385089,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.5,20.0,male,Unknown,47.319782,11.190836,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.6,16.0,female,Unknown,47.32002,11.18557,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.6,20.0,male,Unknown,47.318793,11.185855,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,1.1,23.0,female,Unknown,47.316963,11.188761,Unknown,24.03.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.8,16.0,male,Unknown,52.582072,13.149185,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.2,23.0,male,Unknown,52.58572,13.148613,Unknown,24.03.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.7,19.0,female,Unknown,52.587827,13.148164,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.9,151.0,female,Unknown,52.583004,13.150686,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.2,22.0,male,Unknown,52.587058,13.149675,Unknown,24.03.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.7,16.0,female,Unknown,52.587539,13.146575,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.6,25.0,male,Unknown,52.587183,13.146661,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.0,24.0,male,Unknown,52.586487,13.150015,Unknown,24.03.2024,Bob Bobson,1 kg or more
+squirrel,Germany,0.313,23.0,female,Unknown,52.588779,13.147948,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.268,21.0,male,Unknown,52.587089,13.151807,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.323,21.0,male,Unknown,47.781847,14.386835,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.272,20.0,female,Unknown,47.781296,14.383799,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.34,20.0,male,Unknown,47.781538,14.384561,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.332,18.0,female,Unknown,47.781345,14.382936,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.286,19.0,female,Unknown,52.582658,13.148057,Unknown,24.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Czech Republic,0.8,18.0,male,Unknown,49.938688,14.179603,Unknown,24.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.336,22.0,female,Unknown,49.939212,14.180839,Unknown,24.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.2,14.0,female,Unknown,48.186611,17.090271,Unknown,24.03.2024,John Johnson,less than 1 kg
+hedgehog,Poland,0.9,22.0,female,Unknown,52.214494,21.033154,Unknown,25.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Poland,1.0,21.0,male,Unknown,52.214419,21.033441,Unknown,25.03.2024,Anne Anthony,1 kg or more
+hedgehog,Czech Republic,0.4,12.0,female,Unknown,49.937893,14.18083,Unknown,25.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.336,23.0,male,Unknown,49.939262,14.179613,Unknown,25.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.254,18.0,male,Unknown,48.239854,17.086693,Unknown,25.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.294,23.0,male,Unknown,48.22668,17.081529,Unknown,25.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.265,22.0,female,Unknown,48.23862,17.074393,Unknown,25.03.2024,John Johnson,less than 1 kg
+european bison,Poland,823.0,305.0,male,Unknown,52.82429,23.813465,Unknown,26.03.2024,Anne Anthony,1 kg or more
+european bison,Poland,594.0,243.0,male,Unknown,52.825554,23.812594,Unknown,26.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.31,24.0,male,Unknown,50.041235,19.951284,Unknown,26.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.0,20.0,female,Unknown,47.508618,18.944915,Unknown,26.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,0.7,16.0,male,Unknown,49.93915,14.179388,Unknown,26.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.6,17.0,female,Unknown,49.938346,14.18024,Unknown,26.03.2024,John Johnson,less than 1 kg
+hedgehog,Poland,1.1,20.0,female,Unknown,52.214766,21.030532,Unknown,27.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.336,19.0,male,Unknown,50.041489,19.950768,Lolek,27.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Germany,0.7,23.0,female,Unknown,52.587532,13.152361,Unknown,27.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.7,17.0,male,Unknown,48.161584,11.494938,Unknown,27.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.9,18.0,female,Unknown,48.160459,11.493142,Unknown,27.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.5,20.0,male,Unknown,48.160834,11.489874,Unknown,27.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Czech Republic,0.5,16.0,male,Unknown,49.938845,14.182246,Unknown,27.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.8,17.0,female,Unknown,49.938959,14.180078,Unknown,27.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.277,22.0,male,Unknown,49.939097,14.179435,Unknown,27.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.321,18.0,female,Unknown,48.226708,17.087853,Unknown,27.03.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.271,19.0,female,Unknown,49.938523,14.18244,Unknown,27.03.2024,John Johnson,less than 1 kg
+european bison,Poland,510.0,222.0,female,Unknown,52.807537,23.700909,Unknown,28.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.328,23.0,female,Unknown,50.041504,19.950218,Unknown,28.03.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.278,23.0,female,Unknown,50.041119,19.94973,Unknown,28.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Czech Republic,0.6,18.0,female,Unknown,49.937805,14.179716,Unknown,28.03.2024,John Johnson,less than 1 kg
+hedgehog,Czech Republic,0.7,15.0,female,Unknown,49.93933,14.177877,Unknown,28.03.2024,John Johnson,less than 1 kg
+squirrel,Hungary,0.273,23.0,female,Unknown,47.507157,18.940379,Unknown,29.03.2024,Anne Anthony,less than 1 kg
+squirrel,Austria,0.336,20.0,female,Unknown,47.780752,14.383452,Bibi,29.03.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.29,19.0,male,Unknown,47.781078,14.384559,Unknown,29.03.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.337,22.0,male,Unknown,47.781088,14.385534,Unknown,29.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,0.7,16.0,male,Unknown,48.409138,18.863577,Unknown,29.03.2024,John Johnson,less than 1 kg
+lynx,Slovakia,16.0,62.0,female,Unknown,48.409448,18.845591,Unknown,29.03.2024,John Johnson,1 kg or more
+squirrel,Poland,0.289,24.0,male,Unknown,50.041382,19.949403,Unknown,30.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Germany,1.1,25.0,male,Unknown,48.160773,11.49368,Unknown,30.03.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.6,15.0,female,Unknown,48.160813,11.492539,Unknown,30.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.5,20.0,female,Unknown,48.161605,11.49115,Unknown,30.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.7,20.0,male,Unknown,48.162593,11.491872,Unknown,30.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.6,15.0,female,Unknown,48.16142,11.495056,Unknown,30.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.5,16.0,female,Unknown,48.162549,11.492991,Unknown,30.03.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.9,19.0,male,Unknown,48.161646,11.493511,Unknown,30.03.2024,Bob Bobson,less than 1 kg
+lynx,Slovakia,21.0,85.0,male,Unknown,48.405213,18.84085,Unknown,30.03.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.288,18.0,male,Unknown,49.939,14.182239,Unknown,30.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.287,21.0,male,Unknown,48.224897,17.085979,Unknown,30.03.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.286,18.0,male,Unknown,48.228961,17.076478,Unknown,30.03.2024,John Johnson,less than 1 kg
+european bison,Poland,970.0,307.0,male,Unknown,52.805402,23.691244,Unknown,31.03.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.323,20.0,female,Unknown,50.041366,19.949444,Unknown,31.03.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.0,19.0,female,Unknown,47.509538,18.945968,Unknown,31.03.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.9,19.0,female,Unknown,48.407464,18.87406,Unknown,31.03.2024,John Johnson,less than 1 kg
+lynx,Slovakia,20.0,78.0,female,Unknown,48.40979,18.870341,Unknown,31.03.2024,John Johnson,1 kg or more
+european bison,Poland,459.0,212.0,female,Unknown,52.807403,23.683044,Unknown,01.04.2024,Anne Anthony,1 kg or more
+european bison,Poland,705.0,280.0,female,Unknown,52.803733,23.686928,Unknown,01.04.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.323,19.0,female,Unknown,50.041804,19.951361,Unknown,01.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.337,18.0,female,Unknown,47.511558,18.942454,Unknown,01.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,1.1,22.0,male,Unknown,48.409754,18.870477,Unknown,01.04.2024,John Johnson,1 kg or more
+lynx,Czech Republic,26.0,81.0,female,Unknown,50.884012,14.370554,Unknown,01.04.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.283,22.0,female,Unknown,49.939191,14.180256,Unknown,01.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.26,22.0,female,Unknown,48.23123,17.090253,Unknown,01.04.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,0.6,20.0,female,Unknown,48.504425,20.548744,Unknown,02.04.2024,Anne Anthony,less than 1 kg
+lynx,Poland,22.0,101.0,male,Unknown,52.824599,23.816842,Unknown,02.04.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.294,19.0,male,Unknown,50.041131,19.949543,Unknown,02.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.3315,21.0,male,Unknown,50.041552,19.949984,Unknown,02.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.312,23.0,female,Unknown,50.041945,19.94932,Lola,02.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.29,24.0,male,Unknown,50.041925,19.950894,Unknown,02.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.258,21.0,female,Unknown,47.511582,18.942341,Unknown,02.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Austria,0.8,15.0,female,Unknown,47.319091,11.188058,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.8,18.0,male,Unknown,48.161892,11.493888,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.6,15.0,female,Unknown,48.161218,11.494677,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.8,23.0,male,Unknown,48.161452,11.495239,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.6,16.0,female,Unknown,48.160915,11.489927,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.7,19.0,male,Unknown,48.162169,11.495473,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.0,25.0,female,Unknown,49.54629,11.085729,Unknown,02.04.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,1.1,23.0,male,Unknown,49.559558,11.08115,Unknown,02.04.2024,Bob Bobson,1 kg or more
+squirrel,Austria,0.273,19.0,female,Unknown,47.781613,14.385153,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.33,18.0,female,Unknown,47.781637,14.385383,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.262,18.0,female,Unknown,47.781838,14.382938,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.31,19.0,female,Unknown,47.780925,14.383695,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.334,21.0,female,Unknown,47.781449,14.383421,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.27,20.0,female,Unknown,47.7818,14.383699,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.277,18.0,male,Unknown,47.781073,14.383506,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.258,19.0,male,Unknown,48.162251,11.494811,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.256,16.0,female,Unknown,48.160432,11.494472,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.317,21.0,female,Unknown,48.162563,11.495277,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.266,18.0,female,Unknown,48.161906,11.490434,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.283,21.0,male,Unknown,49.562324,11.092212,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.305,18.0,female,Unknown,49.561973,11.086554,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.282,18.0,male,Unknown,47.781755,14.385083,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.318,18.0,male,Unknown,49.557527,11.089447,Unknown,02.04.2024,Bob Bobson,less than 1 kg
+lynx,Slovakia,27.0,94.0,female,Unknown,48.411163,18.864362,Unknown,02.04.2024,John Johnson,1 kg or more
+squirrel,Slovakia,0.339,20.0,male,Unknown,48.410771,18.865888,Unknown,02.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.302,19.0,male,Unknown,48.410201,18.862513,Unknown,02.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.276,19.0,male,Unknown,48.408111,18.865646,Unknown,02.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.252,19.0,female,Unknown,48.410932,18.861704,Unknown,02.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.293,19.0,male,Unknown,48.227614,17.072903,Unknown,02.04.2024,John Johnson,less than 1 kg
+squirrel,Hungary,0.286,18.0,male,Unknown,47.50826,18.948349,Unknown,03.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Germany,1.2,22.0,male,Unknown,49.551211,11.077661,Unknown,03.04.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.9,23.0,female,Unknown,49.562583,11.082312,Unknown,03.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.7,23.0,female,Unknown,49.547597,11.079679,Unknown,03.04.2024,Bob Bobson,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.04.2024,James Johnson,less than 1 kg
+hedgehog,Slovakia,1.2,26.0,male,Unknown,48.40912,18.869274,Unknown,03.04.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.258,21.0,female,Unknown,49.938787,14.178284,Unknown,03.04.2024,John Johnson,less than 1 kg
+european bison,Poland,1000.0,295.0,male,Unknown,52.809543,23.708564,Unknown,04.04.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.7,23.0,female,Unknown,47.508516,18.949429,Unknown,04.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,1.2,24.0,male,Unknown,47.508941,18.948915,Unknown,04.04.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.337,22.0,female,Unknown,50.041819,19.951542,Unknown,04.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.272,23.0,female,Unknown,50.0418,19.950244,Unknown,04.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.262,22.0,male,Unknown,47.508905,18.94657,Unknown,04.04.2024,Anne Anthony,less than 1 kg
+european bison,Poland,557.0,255.0,female,Unknown,52.811204,23.697814,Unknown,05.04.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.8,17.0,female,Unknown,47.507073,18.947873,Unknown,05.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Austria,0.9,22.0,female,Unknown,47.31758,11.187606,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.8,16.0,male,Unknown,47.31947,11.18573,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.7,18.0,male,Unknown,47.319812,11.18479,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.8,20.0,female,Unknown,47.316383,11.188381,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.299,20.0,female,Unknown,47.781131,14.382207,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Australia,0.266,20.0,female,Unknown,47.781632,14.382365,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.308,18.0,male,Unknown,47.780904,14.385669,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.264,22.0,male,Unknown,47.781089,14.385211,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.322,20.0,male,Unknown,47.781333,14.382547,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.332,18.0,female,Unknown,47.780927,14.382188,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.253,21.0,male,Unknown,47.856032,15.076768,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.317,20.0,female,Unknown,49.545913,11.081051,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.327,20.0,male,Unknown,49.550428,11.077659,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.255,19.0,female,Unknown,49.558869,11.076638,Unknown,05.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,0.8,21.0,female,Unknown,48.412408,18.869074,Unknown,05.04.2024,John Johnson,less than 1 kg
+lynx,Czech Republic,15.0,70.0,male,Unknown,50.883894,14.372364,Unknown,05.04.2024,John Johnson,1 kg or more
+squirrel,Slovakia,0.3,19.0,female,Unknown,48.229837,17.089218,Unknown,05.04.2024,John Johnson,less than 1 kg
+european bison,Poland,589.0,279.0,female,Unknown,52.808704,23.705504,Unknown,06.04.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.7,16.0,female,Unknown,47.510231,18.940042,Unknown,06.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.8,14.0,female,Unknown,47.509073,18.946838,Unknown,06.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.348,23.0,male,Unknown,50.041252,19.950033,Unknown,06.04.2024,Anne Anthony,less than 1 kg
+squirrel,Austria,0.294,22.0,male,Unknown,47.855007,15.076539,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.299,19.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.314,19.0,female,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.297,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.298,21.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.301,19.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.267,20.0,female,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.315,21.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.3,21.0,female,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.3,21.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.264,22.0,female,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.251,21.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.302,22.0,female,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.262,22.0,female,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.301,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.243,19.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.314,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.244,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.25,22.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.272,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.289,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.315,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.304,21.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.241,19.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.248,22.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.29,21.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+Unknown,Austria,0.319,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+Unknown,Austria,0.292,19.0,female,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+Unknown,Austria,0.319,19.0,female,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+Unknown,Austria,0.298,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+Unknown,Austria,0.255,22.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+Unknown,Austria,0.3,20.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+Unknown,Austria,0.252,21.0,male,Unknown,0.0,0.0,Unknown,06.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,0.8,17.0,male,Unknown,48.409645,18.872415,Unknown,06.04.2024,John Johnson,less than 1 kg
+lynx,Czech Republic,26.0,88.0,female,Unknown,50.883881,14.373018,Unknown,06.04.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.316,23.0,female,Unknown,49.93931,14.181266,Unknown,06.04.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.327,21.0,male,Unknown,49.938616,14.181291,Unknown,06.04.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.288,18.0,male,Unknown,49.937839,14.179075,Unknown,06.04.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.313,22.0,female,Unknown,49.939308,14.180747,Unknown,06.04.2024,John Johnson,less than 1 kg
+european bison,Poland,1100.0,350.0,male,Unknown,52.803316,23.686301,Unknown,07.04.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.9,16.0,female,Unknown,47.506638,18.940091,Unknown,07.04.2024,Anne Anthony,less than 1 kg
+lynx,Poland,23.0,73.0,male,Unknown,52.823016,23.812286,Unknown,07.04.2024,Anne Anthony,1 kg or more
+squirrel,Hungary,0.319,18.0,male,Unknown,47.508665,18.940456,Unknown,07.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.28,21.0,female,Unknown,47.510978,18.942963,Unknown,07.04.2024,Anne Anthony,less than 1 kg
+squirrel,Austria,0.264,22.0,female,Unknown,47.857586,15.081328,Unknown,07.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.334,19.0,male,Unknown,47.856971,15.078984,Unknown,07.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.278,21.0,male,Unknown,47.856769,15.076411,Unknown,07.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.333,22.0,female,Unknown,47.855379,15.077237,Lola,07.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.323,23.0,male,Unknown,47.856015,15.08325,Unknown,07.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,1.1,16.0,female,Unknown,48.413154,18.875356,Unknown,07.04.2024,John Johnson,1 kg or more
+squirrel,Poland,0.265,22.0,female,Unknown,50.041147,19.95046,Unknown,08.04.2024,Anne Anthony,less than 1 kg
+squirrel,Austria,0.27,23.0,female,Unknown,47.853881,15.078367,Unknown,08.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.299,19.0,female,Unknown,47.854855,15.082168,Sissi,08.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.3,21.0,male,Unknown,47.855216,15.078877,Unknown,08.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.338,19.0,male,Unknown,47.857495,15.07895,Unknown,08.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.285,21.0,female,Unknown,47.853875,15.078745,Unknown,08.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.333,19.0,female,Unknown,47.854756,15.082892,Sissi,08.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.323,23.0,male,Unknown,47.854099,15.076812,Unknown,08.04.2024,Bob Bobson,less than 1 kg
+european bison,Czech Republic,560.0,250.0,female,Unknown,50.645077,14.840304,Unknown,08.04.2024,John Johnson,1 kg or more
+hedgehog,Slovakia,1.1,25.0,male,Unknown,48.41259,18.87302,Unknown,08.04.2024,John Johnson,1 kg or more
+squirrel,Slovakia,0.0,21.0,male,Unknown,49.057599,22.422203,Unknown,08.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.26,18.0,male,Unknown,49.053175,22.414666,Unknown,08.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.329,20.0,male,Unknown,49.054663,22.412082,Unknown,08.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.33,21.0,female,Unknown,49.055275,22.41421,Unknown,08.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.271,23.0,male,Unknown,49.052914,22.42299,Unknown,08.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.298,18.0,female,Unknown,49.055453,22.423536,Unknown,08.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.281,23.0,male,Unknown,49.056583,22.415432,Unknown,08.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.316,22.0,female,Unknown,49.054586,22.41368,Unknown,08.04.2024,John Johnson,less than 1 kg
+squirrel,Slovakia,0.265,18.0,male,Unknown,49.056946,22.424916,Unknown,08.04.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.296,22.0,male,Unknown,50.041497,19.950657,Unknown,09.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.257,20.0,female,Unknown,47.509375,18.939808,Unknown,09.04.2024,Anne Anthony,less than 1 kg
+squirrel,Czech Republic,0.313,21.0,male,Unknown,49.937425,14.182723,Unknown,09.04.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.282,19.0,female,Unknown,49.939072,14.180063,Unknown,09.04.2024,John Johnson,less than 1 kg
+european bison,Poland,486.0,235.0,female,Unknown,52.809086,23.696425,Unknown,10.04.2024,Anne Anthony,1 kg or more
+lynx,Poland,22.0,78.0,male,Unknown,52.821625,23.818063,Unknown,10.04.2024,Anne Anthony,1 kg or more
+hedgehog,Slovakia,1.2,26.0,male,Unknown,48.409469,18.861715,Unknown,10.04.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.257,21.0,male,Unknown,50.107147,14.347009,Unknown,10.04.2024,John Johnson,less than 1 kg
+european bison,Poland,610.0,281.0,female,Unknown,52.810989,23.689137,Unknown,11.04.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.8,17.0,female,Unknown,47.507081,18.939062,Unknown,11.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.325,20.0,female,Unknown,50.041347,19.950773,Unknown,11.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.275,21.0,female,Unknown,47.506071,18.949311,Unknown,11.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.285,20.0,male,Unknown,47.509655,18.943576,Unknown,11.04.2024,Anne Anthony,less than 1 kg
+squirrel,Australia,0.31,23.0,male,Unknown,47.856092,15.083547,Unknown,11.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.256,19.0,male,Unknown,47.854876,15.08295,Unknown,11.04.2024,Bob Bobson,less than 1 kg
+squirrel,Austria,0.285,23.0,male,Unknown,47.857535,15.078083,Unknown,11.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.303,19.0,female,Unknown,48.162437,11.494298,Unknown,11.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.273,19.0,male,Unknown,48.161106,11.48991,Unknown,11.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.267,22.0,female,Unknown,48.161385,11.492571,Unknown,11.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.258,20.0,female,Unknown,48.162137,11.494415,Unknown,11.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.296,18.0,male,Unknown,48.162162,11.493917,Unknown,11.04.2024,Bob Bobson,less than 1 kg
+lynx,Slovakia,22.0,88.0,male,Unknown,48.40855,18.864935,Unknown,11.04.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.308,22.0,female,Unknown,50.106721,14.346231,Unknown,11.04.2024,John Johnson,less than 1 kg
+european bison,Poland,853.0,287.0,male,Unknown,52.80356,23.690378,Unknown,12.04.2024,Anne Anthony,1 kg or more
+squirrel,Germany,0.302,18.0,female,Unknown,48.160992,11.495374,Unknown,12.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,1.0,20.0,female,Unknown,48.408713,18.863829,Unknown,12.04.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.325,21.0,female,Unknown,50.106483,14.348192,Unknown,12.04.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,1.2,23.0,male,Unknown,47.511267,18.940191,Unknown,13.04.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.264,20.0,male,Unknown,50.041366,19.949936,Unknown,13.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.3315,21.0,male,Unknown,50.041573,19.94985,Unknown,13.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.32,23.0,female,Unknown,50.041554,19.95113,Unknown,13.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.298,23.0,male,Unknown,52.211967,21.032924,Unknown,13.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.8,23.0,male,Unknown,48.412843,18.872614,Unknown,13.04.2024,John Johnson,less than 1 kg
+hedgehog,Slovakia,0.8,16.0,male,Unknown,48.407138,18.867247,Unknown,13.04.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,0.4,17.0,female,Unknown,47.509261,18.949967,Unknown,14.04.2024,Anne Anthony,less than 1 kg
+lynx,Poland,20.0,90.0,female,Unknown,52.824608,23.817396,Unknown,14.04.2024,Anne Anthony,1 kg or more
+squirrel,Hungary,0.297,18.0,male,Unknown,47.506306,18.946099,Unknown,14.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.308,20.0,female,Unknown,47.510068,18.947176,Unknown,14.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.268,19.0,male,Unknown,47.51106,18.939832,Unknown,14.04.2024,Anne Anthony,less than 1 kg
+squirrel,Germany,0.259,22.0,male,Unknown,48.160831,11.492403,Unknown,14.04.2024,Bob Bobson,less than 1 kg
+european bison,Poland,700.0,286.0,male,Unknown,52.808503,23.69937,Unknown,15.04.2024,Anne Anthony,1 kg or more
+hedgehog,Hungary,0.7,15.0,male,Unknown,47.511427,18.948714,Unknown,15.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.278,21.0,female,Unknown,52.211888,21.03235,Unknown,15.04.2024,Anne Anthony,less than 1 kg
+squirrel,Germany,0.339,19.0,female,Unknown,48.161422,11.491813,Unknown,15.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.307,22.0,male,Unknown,48.16079,11.489549,Unknown,15.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.256,20.0,female,Unknown,48.161009,11.491557,Unknown,15.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.29,20.0,male,Unknown,48.160807,11.494219,Unknown,15.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.323,18.0,female,Unknown,48.161794,11.494325,Unknown,15.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.293,21.0,male,Unknown,48.161069,11.49303,Unknown,15.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.326,18.0,female,Unknown,48.16087,11.49027,Unknown,15.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.266,21.0,female,Unknown,48.16056,11.490806,Unknown,15.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,0.5,18.0,female,Unknown,48.409909,18.867006,Unknown,15.04.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.317,19.0,male,Unknown,50.106373,14.347574,Unknown,15.04.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,0.5,19.0,female,Unknown,47.50643,18.947912,Unknown,16.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.6,15.0,male,Unknown,47.506663,18.94032,Unknown,16.04.2024,Anne Anthony,less than 1 kg
+squirrel,Hungary,0.254,20.0,female,Unknown,47.508169,18.947418,Unknown,16.04.2024,Anne Anthony,less than 1 kg
+squirrel,Germany,0.313,19.0,male,Unknown,48.161902,11.49458,Unknown,16.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.2,14.0,male,Unknown,49.554765,11.0922,Unknown,16.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.278,18.0,female,Unknown,49.558466,11.096048,Unknown,16.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,0.6,25.0,male,Unknown,48.407605,18.876341,Unknown,16.04.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.298,19.0,female,Unknown,52.212379,21.032913,Unknown,17.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Germany,0.7,21.0,male,Unknown,49.556052,11.081501,Unknown,17.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.2,28.0,male,Unknown,49.55152,11.079537,Unknown,17.04.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.5,18.0,female,Unknown,49.553737,11.087705,Unknown,17.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.0,20.0,male,Unknown,49.560442,11.098395,Unknown,17.04.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.9,25.0,male,Unknown,49.560723,11.084667,Unknown,17.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.4,16.0,female,Unknown,49.55879,11.081218,Unknown,17.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.294,20.0,male,Unknown,49.545857,11.076254,Unknown,17.04.2024,Bob Bobson,less than 1 kg
+squirrel,Germany,0.3,23.0,female,Unknown,49.554685,11.08345,Unknown,17.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,1.1,23.0,male,Unknown,48.186112,17.090491,Unknown,17.04.2024,John Johnson,1 kg or more
+lynx,Slovakia,27.0,100.0,male,Unknown,48.411117,18.862265,Unknown,17.04.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.283,22.0,female,Unknown,50.106413,14.348204,Unknown,17.04.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.28,22.0,female,Unknown,50.107135,14.348206,Unknown,17.04.2024,John Johnson,less than 1 kg
+european bison,Poland,405.0,220.0,female,Unknown,52.804031,23.683032,Unknown,18.04.2024,Anne Anthony,1 kg or more
+hedgehog,Germany,1.0,24.0,male,Unknown,49.561057,11.084334,Unknown,18.04.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.6,11.0,male,Unknown,49.557055,11.101996,Unknown,18.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.7,25.0,male,Unknown,49.554133,11.089674,Unknown,18.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.6,22.0,female,Unknown,49.561174,11.102216,Unknown,18.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.5,20.0,male,Unknown,49.563085,11.101392,Unknown,18.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.9,25.0,male,Unknown,49.551318,11.085475,Unknown,18.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.5,16.0,female,Unknown,49.556237,11.088639,Unknown,18.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.8,17.0,male,Unknown,49.545768,11.086386,Unknown,18.04.2024,Bob Bobson,less than 1 kg
+squirrel,Czech Republic,0.326,23.0,male,Unknown,50.107313,14.348552,Unknown,18.04.2024,John Johnson,less than 1 kg
+european bison,Poland,662.0,244.0,female,Unknown,52.809106,23.680095,Unknown,19.04.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.341,23.0,male,Unknown,52.212042,21.033492,Unknown,19.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Austria,0.6,17.0,female,Unknown,47.319579,11.186061,Unknown,19.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,0.9,25.0,male,Unknown,47.317974,11.187472,Unknown,19.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Austria,1.1,22.0,male,Unknown,47.316562,11.19116,Unknown,19.04.2024,Bob Bobson,1 kg or more
+hedgehog,Austria,1.2,24.0,male,Unknown,47.318191,11.189484,Unknown,19.04.2024,Bob Bobson,1 kg or more
+european bison,Czech Republic,656.0,245.0,female,Unknown,50.643056,14.843037,Unknown,19.04.2024,John Johnson,1 kg or more
+hedgehog,Slovakia,1.1,19.0,female,Unknown,48.187522,17.087251,Unknown,19.04.2024,John Johnson,1 kg or more
+hedgehog,Slovakia,1.1,29.0,male,Unknown,48.185406,17.084535,Unknown,19.04.2024,John Johnson,1 kg or more
+lynx,Czech Republic,12.0,52.0,male,Unknown,-78.582972,14.367993,Unknown,19.04.2024,John Johnson,1 kg or more
+lynx,Slovakia,24.0,81.0,female,Unknown,48.408549,18.87396,Unknown,19.04.2024,John Johnson,1 kg or more
+lynx,Czech Republic,22.0,83.0,female,Unknown,50.882924,14.368207,Unknown,19.04.2024,John Johnson,1 kg or more
+squirrel,Poland,0.327,23.0,male,Unknown,52.212168,21.032304,Unknown,20.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.337,24.0,female,Unknown,52.211797,21.03375,Basia,20.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.318,24.0,male,Unknown,52.21247,21.033642,Unknown,20.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.33,23.0,male,Unknown,52.211872,21.032296,Puchatek,20.04.2024,Anne Anthony,less than 1 kg
+european bison,Poland,776.0,294.0,male,Unknown,52.805299,23.701093,Unknown,21.04.2024,Anne Anthony,1 kg or more
+hedgehog,Slovakia,0.8,18.0,male,Unknown,48.186208,17.089749,Unknown,21.04.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.306,19.0,female,Unknown,52.212605,21.033877,Unknown,22.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.349,20.0,female,Unknown,52.212001,21.033903,Unknown,22.04.2024,Anne Anthony,less than 1 kg
+lynx,Czech Republic,23.0,78.0,male,Unknown,-78.582973,14.366824,Unknown,22.04.2024,John Johnson,1 kg or more
+hedgehog,Slovakia,0.7,16.0,male,Unknown,48.184231,17.091694,Unknown,23.04.2024,John Johnson,less than 1 kg
+european bison,Poland,650.0,286.0,female,Unknown,52.812486,23.686231,Unknown,24.04.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.271,19.0,female,Unknown,52.211797,21.032857,Unknown,24.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.329,24.0,female,Unknown,52.212045,21.031986,Unknown,24.04.2024,Anne Anthony,less than 1 kg
+lynx,Austria,20.0,90.0,male,Unknown,47.781188,14.385356,Unknown,24.04.2024,Bob Bobson,1 kg or more
+lynx,Austria,26.0,91.0,female,Unknown,47.780999,14.38212,Unknown,24.04.2024,Bob Bobson,1 kg or more
+hedgehog,Slovakia,0.6,15.0,female,Unknown,48.185648,17.083763,Unknown,24.04.2024,John Johnson,less than 1 kg
+lynx,Poland,14.0,65.0,female,Unknown,52.851841,23.89158,Unknown,25.04.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.311,21.0,male,Unknown,52.212203,21.032279,Unknown,25.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.7,16.0,male,Unknown,48.185433,17.086216,Unknown,26.04.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.29,24.0,female,Unknown,52.212763,21.032786,Unknown,27.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,1.2,22.0,male,Unknown,48.186913,17.088174,Unknown,27.04.2024,John Johnson,1 kg or more
+hedgehog,Slovakia,0.7,24.0,female,Unknown,48.185649,17.088834,Unknown,27.04.2024,John Johnson,less than 1 kg
+lynx,Poland,12.0,52.0,male,Unknown,52.848214,23.891978,Unknown,28.04.2024,Anne Anthony,1 kg or more
+lynx,Poland,27.0,95.0,female,Unknown,52.853843,23.919668,Unknown,28.04.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.312,23.0,male,Unknown,52.21212,21.034268,Unknown,28.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Germany,0.5,20.0,male,Unknown,49.55324,11.074008,Unknown,28.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.1,20.0,female,Unknown,49.551562,11.081737,Unknown,28.04.2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.6,18.0,male,Unknown,49.547376,11.079529,Unknown,28.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.8,20.0,male,Unknown,49.560178,11.093259,Unknown,28.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.8,19.0,male,Unknown,49.558968,11.106642,Unknown,28.04.2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,0.9,20.0,male,Unknown,48.18637,17.090384,Unknown,28.04.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,0.6,16.0,female,Unknown,47.506035,18.944528,Unknown,29.04.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.27,21.0,female,Unknown,52.21239,21.034548,Basia,29.04.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,1.1,23.0,male,Unknown,48.183848,17.082806,Unknown,29.04.2024,John Johnson,1 kg or more
+lynx,Slovakia,22.0,73.0,male,Unknown,48.410551,18.864866,Unknown,29.04.2024,John Johnson,1 kg or more
+squirrel,Poland,0.292,20.0,female,Unknown,52.212433,21.032496,Unknown,30.04.2024,Anne Anthony,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.05.2024,James Johnson,less than 1 kg
+squirrel,Poland,0.305,19.0,female,Unknown,52.212746,21.033832,Unknown,09.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.7,22.0,male,Unknown,48.23276,17.069049,Unknown,09.05.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,0.7,16.0,male,Unknown,47.509595,18.939751,Unknown,10.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,1.0,20.0,male,Unknown,47.511301,18.93974,Unknown,10.05.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.264,21.0,male,Unknown,52.212148,21.033421,Unknown,11.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Germany,0.7,24.0,male,Unknown,49.56023,11.102233,Unknown,11.05.2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,1.1,19.0,female,Unknown,49.54841,11.078249,Unknown,11.05.2024,Bob Bobson,1 kg or more
+hedgehog,Slovakia,0.8,24.0,female,Unknown,48.239628,17.087298,Unknown,11.05.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,1.0,23.0,female,Unknown,47.507376,18.9396,Unknown,12.05.2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.266,20.0,male,Unknown,52.212429,21.032435,Unknown,12.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.5,19.0,male,Unknown,48.231939,17.087688,Unknown,12.05.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.266,21.0,female,Unknown,52.21284,21.034377,Unknown,13.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.317,20.0,female,Unknown,52.212163,21.032633,Unknown,13.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,1.0,18.0,male,Unknown,48.225014,17.081449,Unknown,13.05.2024,John Johnson,1 kg or more
+hedgehog,Hungary,0.6,17.0,female,Unknown,47.506311,18.947371,Unknown,14.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.27,23.0,female,Unknown,52.212553,21.032768,Unknown,14.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.7,22.0,female,Unknown,48.225116,17.086408,Unknown,14.05.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.279,22.0,male,Unknown,52.212411,21.033173,Unknown,15.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,1.0,18.0,female,Unknown,47.507019,18.944015,Unknown,16.05.2024,Anne Anthony,1 kg or more
+hedgehog,Slovakia,0.4,13.0,male,Unknown,48.237386,17.078352,Unknown,16.05.2024,John Johnson,less than 1 kg
+hedgehog,Hungary,0.3315,21.0,male,Unknown,47.510077,18.945646,Unknown,17.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.7,11.0,female,Unknown,47.507758,18.949223,Unknown,17.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.28,19.0,female,Unknown,52.212542,21.033829,Unknown,17.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.26,19.0,male,Unknown,52.212628,21.034494,Unknown,17.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.294,24.0,female,Unknown,52.21294,21.034208,Unknown,17.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.6,20.0,male,Unknown,48.235981,17.081698,Unknown,17.05.2024,John Johnson,less than 1 kg
+hedgehog,Slovakia,0.8,16.0,female,Unknown,48.23493,17.084813,Unknown,17.05.2024,John Johnson,less than 1 kg
+lynx,Slovakia,18.0,76.0,male,Unknown,48.412724,18.868878,Unknown,17.05.2024,John Johnson,1 kg or more
+squirrel,Poland,0.306,21.0,male,Unknown,52.211896,21.033806,Unknown,18.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.277,22.0,male,Unknown,52.211924,21.033243,Unknown,18.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,1.1,22.0,female,Unknown,47.510584,18.94173,Unknown,19.05.2024,Anne Anthony,1 kg or more
+hedgehog,Slovakia,0.6,19.0,female,Unknown,48.236605,17.071495,Unknown,19.05.2024,John Johnson,less than 1 kg
+lynx,Slovakia,22.0,85.0,male,Unknown,48.411436,18.86478,Unknown,19.05.2024,John Johnson,1 kg or more
+squirrel,Poland,0.341,21.0,female,Unknown,52.212295,21.034039,Unknown,20.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.338,22.0,female,Unknown,52.212915,21.033226,Unknown,21.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.311,19.0,female,Unknown,52.212601,21.032613,Unknown,21.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,1.2,25.0,male,Unknown,48.231497,17.073128,Unknown,21.05.2024,John Johnson,1 kg or more
+hedgehog,Slovakia,0.4,16.0,female,Unknown,48.238634,17.074895,Unknown,21.05.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.308,23.0,male,Unknown,52.212245,21.032988,Unknown,22.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.308,22.0,female,Unknown,52.212583,21.032932,Unknown,22.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.29,23.0,male,Unknown,52.212065,21.034571,Unknown,23.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.5,16.0,male,Unknown,48.231214,17.084105,Unknown,23.05.2024,John Johnson,less than 1 kg
+lynx,Czech Republic,21.0,91.0,female,Unknown,50.881878,14.371969,Unknown,23.05.2024,John Johnson,1 kg or more
+squirrel,Poland,0.346,22.0,female,Unknown,52.212305,21.033921,Unknown,24.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.7,20.0,female,Unknown,48.231411,17.075484,Unknown,24.05.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.3315,21.0,male,Unknown,52.212906,21.03321,Unknown,25.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.327,24.0,female,Unknown,52.82211,23.814403,Unknown,26.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.8,18.0,male,Unknown,48.237588,17.090344,Unknown,26.05.2024,John Johnson,less than 1 kg
+hedgehog,Slovakia,0.7,18.0,female,Unknown,48.232775,17.070226,Unknown,27.05.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.274,23.0,male,Unknown,52.821631,23.813638,Unknown,28.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.31,19.0,female,Unknown,52.821524,23.817037,Basia,29.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.8,18.0,male,Unknown,48.22689,17.084025,Unknown,29.05.2024,John Johnson,less than 1 kg
+lynx,Slovakia,25.0,101.0,female,Unknown,48.412941,18.863684,Unknown,29.05.2024,John Johnson,1 kg or more
+hedgehog,Slovakia,0.6,18.0,female,Unknown,48.237124,17.085811,Unknown,30.05.2024,John Johnson,less than 1 kg
+squirrel,Poland,0.315,24.0,female,Unknown,52.82295,23.81275,Unknown,31.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.293,22.0,female,Unknown,52.820813,23.809086,Unknown,31.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.302,24.0,male,Unknown,52.825793,23.811068,Unknown,31.05.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.299,20.0,female,Unknown,52.820308,23.809736,Unknown,31.05.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.6,15.0,male,Unknown,48.228141,17.089055,Unknown,31.05.2024,John Johnson,less than 1 kg
+lynx,Slovakia,30.0,115.0,male,Unknown,48.408025,18.865229,Unknown,31.05.2024,John Johnson,1 kg or more
+squirrel,Poland,0.325,20.0,male,Unknown,52.823959,23.817073,Unknown,01.06.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.276,22.0,male,Unknown,52.825746,23.815204,Unknown,01.06.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.298,24.0,female,Unknown,52.823595,23.814758,Unknown,01.06.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.322,23.0,male,Unknown,52.825363,23.816829,Unknown,01.06.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.344,22.0,female,Unknown,52.821958,23.811375,Unknown,01.06.2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.323,22.0,female,Unknown,52.823084,23.816106,Unknown,01.06.2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.6,15.0,male,Unknown,48.238913,17.065508,Unknown,02.06.2024,John Johnson,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.06.2024,James Johnson,less than 1 kg
+hedgehog,Slovakia,0.7,14.0,female,Unknown,48.237762,17.067101,Unknown,03.06.2024,John Johnson,less than 1 kg
+hedgehog,Slovakia,0.7,17.0,female,Unknown,48.238517,17.090268,Unknown,03.06.2024,John Johnson,less than 1 kg
+hedgehog,Slovakia,0.7,24.0,male,Unknown,48.232384,17.067453,Unknown,05.06.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.324,19.0,male,Unknown,50.881376,14.367503,Unknown,06.06.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.324,19.0,female,Unknown,50.883325,14.372463,Unknown,06.06.2024,John Johnson,less than 1 kg
+lynx,Slovakia,19.0,84.0,female,Unknown,48.408917,18.862915,Unknown,07.06.2024,John Johnson,1 kg or more
+squirrel,Czech Republic,0.291,21.0,female,Unknown,50.881428,14.366689,Unknown,08.06.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.258,20.0,male,Unknown,50.882642,14.372818,Unknown,08.06.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.333,23.0,male,Unknown,50.883849,14.367353,Unknown,10.06.2024,John Johnson,less than 1 kg
+squirrel,Czech Republic,0.278,18.0,female,Unknown,50.884288,14.372837,Unknown,11.06.2024,John Johnson,less than 1 kg
+lynx,Slovakia,23.0,95.0,male,Unknown,48.411736,18.874597,Unknown,19.06.2024,John Johnson,1 kg or more
+lynx,Slovakia,11.0,52.0,female,Unknown,48.41179,18.87165,Unknown,19.06.2024,John Johnson,1 kg or more
+lynx,Czech Republic,25.0,97.0,female,Unknown,50.881003,14.369286,Unknown,30.06.2024,John Johnson,1 kg or more
+lynx,Slovakia,15.0,65.0,female,Unknown,48.406339,18.841071,Unknown,03.07.2024,James Johnson,1 kg or more
+lynx,Slovakia,18.0,85.0,male,Unknown,48.411729,18.835591,Unknown,03.07.2024,James Johnson,1 kg or more
+red squirel,Slovakia,0.297,20.0,not determined,Unknown,49.054132,22.411066,Unknown,03.07.2024,James Johnson,less than 1 kg
+squirrel,Slovakia,0.273,23.0,female,Unknown,49.055962,22.425527,Unknown,03.07.2024,James Johnson,less than 1 kg
+squirrel,Slovakia,0.254,19.0,male,Unknown,49.055646,22.412458,Unknown,03.07.2024,James Johnson,less than 1 kg
+squirrel,Slovakia,0.305,20.0,female,Unknown,49.05291,22.420861,Unknown,03.07.2024,James Johnson,less than 1 kg
+squirrel,Slovakia,0.327,19.0,female,Unknown,49.055547,22.411172,Unknown,03.07.2024,James Johnson,less than 1 kg
+squirrel,Slovakia,0.305,20.0,male,Unknown,49.054647,22.410445,Unknown,03.07.2024,James Johnson,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.07.2024,James Johnson,less than 1 kg
+hedgehog,Slovakia,1.0,17.0,male,Unknown,48.226063,17.078596,Unknown,05.07.2024,James Johnson,1 kg or more
+hedgehog,Slovakia,0.6,16.0,female,Unknown,48.238067,17.090891,Unknown,05.07.2024,James Johnson,less than 1 kg
+hedgehog,Slovakia,1.1,20.0,female,Unknown,48.23954,17.066719,Unknown,05.07.2024,James Johnson,1 kg or more
+squirrel,Slovakia,0.327,23.0,male,Unknown,49.057284,22.423861,Unknown,03.08.2024,James Johnson,less than 1 kg
+squirrel,Slovakia,0.319,22.0,female,Unknown,49.054751,22.41916,Unknown,03.08.2024,James Johnson,less than 1 kg
+squirrel,Slovakia,0.303,20.0,male,Unknown,49.05593,22.424085,Unknown,03.08.2024,James Johnson,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.08.2024,James Johnson,less than 1 kg
+lynx,Slovakia,12.0,61.0,male,Unknown,48.413928,18.835281,Unknown,03.09.2024,James Johnson,1 kg or more
+squirrel,Slovakia,0.309,20.0,female,Unknown,49.057758,22.415169,Unknown,03.09.2024,James Johnson,less than 1 kg
+squirrel,Slovakia,0.332,19.0,male,Unknown,48.185695,17.090742,Unknown,03.09.2024,James Johnson,less than 1 kg
+squirrel,Slovakia,0.331,18.0,female,Unknown,48.18604,17.091147,Unknown,03.11.2024,James Johnson,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.13.2024,James Johnson,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.14.2024,James Johnson,less than 1 kg
+Unknown,Unknown,0.3315,21.0,Unknown,Unknown,0.0,0.0,Unknown,03.22.2024,James Johnson,less than 1 kg
+hedgehog,Hungary,0.3315,21.0,male,Unknown,47.509755,18.949465,Unknown,1 May 2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.9,16.0,female,Unknown,47.507053,18.943306,Unknown,1 May 2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.281,21.0,male,Unknown,52.211985,21.032869,Unknown,1 May 2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.6,19.0,female,Unknown,48.184621,17.089464,Unknown,1 May 2024,John Johnson,less than 1 kg
+lynx,Slovakia,27.0,96.0,male,Unknown,48.406669,18.871602,Unknown,1 May 2024,John Johnson,1 kg or more
+lynx,Poland,13.0,63.0,female,Unknown,52.846379,23.90499,Unknown,2 may 2024,Anne Anthony,1 kg or more
+lynx,Poland,20.0,87.0,female,Unknown,52.852069,23.90087,Unknown,2 may 2024,Anne Anthony,1 kg or more
+squirrel,Poland,0.282,22.0,female,Unknown,52.212911,21.034175,Unknown,2 may 2024,Anne Anthony,less than 1 kg
+squirrel,Germany,0.305,21.0,female,Unknown,48.162609,11.494157,Unknown,2 may 2024,Bob Bobson,less than 1 kg
+european bison,Czech Republic,727.0,210.0,male,Unknown,50.643056,14.843037,Unknown,2 may 2024,John Johnson,1 kg or more
+lynx,Slovakia,25.0,107.0,female,Unknown,48.408475,18.872535,Unknown,2 may 2024,John Johnson,1 kg or more
+hedgehog,Hungary,1.2,26.0,male,Unknown,47.509103,18.948171,Unknown,3 May 2024,Anne Anthony,1 kg or more
+hedgehog,Slovakia,1.1,22.0,male,Unknown,48.183927,17.090716,Unknown,3 May 2024,John Johnson,1 kg or more
+squirrel,Poland,0.317,19.0,female,Unknown,52.21231,21.033586,Zuzia,4 May 2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,0.7,26.0,male,Unknown,47.510697,18.948588,Unknown,5 May 2024,Anne Anthony,less than 1 kg
+hedgehog,Hungary,1.1,21.0,female,Unknown,47.505903,18.948538,Unknown,5 May 2024,Anne Anthony,1 kg or more
+lynx,Poland,24.0,89.0,female,Unknown,52.847483,23.906057,Unknown,5 May 2024,Anne Anthony,1 kg or more
+hedgehog,Germany,0.6,23.0,female,Unknown,49.56122,11.082195,Unknown,5 May 2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.7,21.0,female,Unknown,49.559523,11.103684,Unknown,5 May 2024,Bob Bobson,less than 1 kg
+hedgehog,Germany,0.6,23.0,male,Unknown,49.547725,11.082734,Unknown,5 May 2024,Bob Bobson,less than 1 kg
+hedgehog,Slovakia,1.0,21.0,male,Unknown,48.185893,17.08942,Unknown,5 May 2024,John Johnson,1 kg or more
+hedgehog,Slovakia,0.4,16.0,male,Unknown,48.187845,17.086572,Unknown,5 May 2024,John Johnson,less than 1 kg
+hedgehog,Slovakia,0.7,19.0,female,Unknown,48.184278,17.086878,Unknown,5 May 2024,John Johnson,less than 1 kg
+squirrel,Poland,0.301,22.0,male,Unknown,52.21276,21.034189,Unknown,6 May 2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.343,22.0,male,Unknown,52.212497,21.033515,Unknown,6 May 2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.307,20.0,female,Unknown,52.212144,21.033534,Unknown,6 May 2024,Anne Anthony,less than 1 kg
+hedgehog,Slovakia,0.8,21.0,male,Unknown,48.187468,17.088827,Unknown,6 May 2024,John Johnson,less than 1 kg
+hedgehog,Hungary,0.9,23.0,male,Unknown,47.510055,18.944356,Unknown,7 May 2024,Anne Anthony,less than 1 kg
+squirrel,Poland,0.346,20.0,female,Unknown,52.212001,21.033187,Lola,7 May 2024,Anne Anthony,less than 1 kg
+hedgehog,Germany,1.0,23.0,female,Unknown,49.561356,11.105334,Unknown,7 May 2024,Bob Bobson,1 kg or more
+hedgehog,Germany,0.5,17.0,female,Unknown,49.561569,11.087046,Unknown,7 May 2024,Bob Bobson,less than 1 kg
+hedgehog,Hungary,0.9,16.0,female,Unknown,47.50986,18.939943,Unknown,8 May 2024,Anne Anthony,less than 1 kg
